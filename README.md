@@ -11,8 +11,8 @@
 ## 🚀 About Me
 
 - 🎓 **27届双非硕**
-- 💻 **技术路线**: 安全服务 → Python → Go，正在向云原生和AI方向转型
-- 🌱 **当前专注**: AI应用开发、大模型API网关、RAG系统
+- 💻 **技术路线**: 安全服务 → Python → Go，正在向云原生和Agent开发方向转型
+- 🌱 **当前专注**: AI应用开发、Agent开发、RAG系统
 - 🎯 **目标**: 用技术创造有价值的产品
 
 ---
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hank@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](1187869626@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HankLEE-1)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hankaigc.xyz)
 
