@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Java+%E2%86%92+Go+Developer;Building+AI+Products;27+%E5%B1%8A+%E5%8F%8C%E9%9D%9E%E7%A1%95)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Security+%E2%86%92+Python+%E2%86%92+Go;Building+AI+Products;27+%E5%B1%8A+%E5%8F%8C%E9%9D%9E%E7%A1%95)
 
 </div>
 
@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-- 🎓 **27届双非硕** | 从初创后端 → 金山后端 → 美图后端
-- 💻 **技术栈**: Java → Go，正在向云原生和AI方向转型
+- 🎓 **27届双非硕**
+- 💻 **技术路线**: 安全服务 → Python → Go，正在向云原生和AI方向转型
 - 🌱 **当前专注**: AI应用开发、大模型API网关、RAG系统
 - 🎯 **目标**: 用技术创造有价值的产品
 
@@ -47,9 +47,9 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -93,16 +93,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HankLEE-1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="Trophies"/>
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -110,18 +100,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hank@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HankLEE-1)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hankaigc.xyz)
-
-</div>
-
----
-
-<div align="center">
-
-### 💰 Support My Work
-
-如果我的项目对你有帮助，欢迎请我喝杯咖啡 ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hanklee)
 
 </div>
 
